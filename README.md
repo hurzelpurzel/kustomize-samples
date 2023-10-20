@@ -1,7 +1,7 @@
 Follow this https://devopscube.com/kustomize-tutorial/
 
 
-# Transforme 
+# Transformers
 As the name indicates, transformers are something that transforms one config into another. Using Transformers, we can transform our base Kubernetes YAML configs. Kustomize has several built-in transformers. Let’s see some common transformers:
 
   *  commonLabel – It adds a label to all Kubernetes resources
